@@ -23,6 +23,8 @@ much!
 - [Klas Karlsson GitHub](https://github.com/klakar/QGIS_resources)
 - [Klas Karlsson YouTube](https://www.youtube.com/channel/UCxs7cfMwzgGZhtUuwhny4-Q)
 
+## How use the .qml files
+
 ## License
 
 [MIT License](LICENSE.md)
