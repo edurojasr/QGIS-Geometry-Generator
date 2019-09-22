@@ -9,7 +9,8 @@ much!
 
 **Michel Stuyts:**
 
-- [Michel Stuyts GitLab](https://gitlab.com/GIS-projects/qgis-geometry-generator-examples) 
+- [Michel Stuyts
+  GitLab](https://gitlab.com/GIS-projects/qgis-geometry-generator-examples) 
 - [Michel Stuyts Page](https://michelstuyts.be/)
 
 **Anita Graser:**
