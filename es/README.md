@@ -37,7 +37,12 @@ aprendido mucho!
 
 - [QGIS Web](https://www.qgis.org/en/site/)
 
-## How use the .qml files
+## Como usar los archivos .qml
+
+## El material en español
+
+El material que se encuentra disponible en español se encuentra en la carpeta
+llamada "es"
 
 ## License
 
