@@ -32,7 +32,7 @@ aprendido mucho!
 
 - [Klas Karlsson GitHub](https://github.com/klakar/QGIS_resources)
 - [Klas Karlsson YouTube](https://www.youtube.com/channel/UCxs7cfMwzgGZhtUuwhny4-Q)
-◙
+
 **QGIS Community.**
 
 - [QGIS Web](https://www.qgis.org/en/site/)
