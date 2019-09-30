@@ -41,6 +41,17 @@ much!
 
 ## How use the .qml files
 
+[QML Files](/qml)
+
+## What can be done with the Geometry Generator?
+
+You can make a lot of things with the geometry generator one examples is
+
+![Polygon Dimensions](./qml/img/Polygon_with_dimensions.png)
+
+Add smart dimensions to you geometries, so when you change some vertex o line
+the measure changes
+
 ## Español
 
 Voy a proveer también los materiales 
