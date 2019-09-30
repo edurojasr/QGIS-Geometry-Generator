@@ -3,7 +3,7 @@
 Tutorial and examples of how to use the QGIS geometry generator.
 
 The geometry generator in QGIS is a estrange rendering tool that some users fear
-and with which they are not familiar. in this repo I will try to teach how to use
+and with which they are not familiar. In this repo I will try to teach how to use
 the tool and reveal the great power it hides.
 
 ## What is the QGIS geometry generator
@@ -34,7 +34,7 @@ much!
 
 - [Klas Karlsson GitHub](https://github.com/klakar/QGIS_resources)
 - [Klas Karlsson YouTube](https://www.youtube.com/channel/UCxs7cfMwzgGZhtUuwhny4-Q)
-
+◙
 **QGIS Community.**
 
 - [QGIS Web](https://www.qgis.org/en/site/)
@@ -43,7 +43,8 @@ much!
 
 ## Español
 
-Voy a proveer también los materiales en español
+Voy a proveer también los materiales 
+[En Español](../es)
 
 ## License
 
