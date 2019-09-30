@@ -16,7 +16,7 @@ a geometry
 
 ## Polygon with dimensions
 
-![Polygon Dimensions](../img/Polygon_with_dimensions.png)
+![Polygon Dimensions](../../img/Polygon_with_dimensions.png)
 
 Add smart dimensions to you geometries, so when you change some vertex o line
 the measure changes

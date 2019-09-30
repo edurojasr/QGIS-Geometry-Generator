@@ -57,7 +57,7 @@ geometrías
 
 Tu puedes hacer muchas cosas con el generador de geometrías un ejemplo es
 
-![Polygon Dimensions](../qml/img/Polygon_with_dimensions.png)
+![Polygon Dimensions](../img/Polygon_with_dimensions.png)
 
 Agregar dimensiones inteligentes a tus polígonos, para cuando cambies algún nodo
 la dimension cambie inmediatamente
