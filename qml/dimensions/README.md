@@ -14,6 +14,12 @@ to our geometries in this way we will not have to calculate fields with the
 measurements since these will change or be added every time we modify or create
 a geometry
 
+## QGIS versions available
+
+Use this .qml with: 
+
+- QGIS 3.8
+
 ## Polygon with dimensions
 
 ![Polygon Dimensions](../../img/Polygon_with_dimensions.png)
