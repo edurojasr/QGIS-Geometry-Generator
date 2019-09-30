@@ -44,7 +44,7 @@ much!
 ## Español
 
 Voy a proveer también los materiales 
-[En Español](../es)
+[En Español](../es/README.md)
 
 ## License
 
