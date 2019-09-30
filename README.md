@@ -39,11 +39,22 @@ much!
 
 - [QGIS Web](https://www.qgis.org/en/site/)
 
+## Check the examples to learn how to use the geometry generator
+
+[Examples](/examples)
+
+The examples are the tutorial of how use the geometry generator and understand
+the different expressions and functions used to achieve different
+representations
+
 ## How use the .qml files
 
 [QML Files](/qml)
 
-## What can be done with the Geometry Generator?
+The .qml files are used for sharing the different layes styles in QGIS, use them
+to see the different representations of the geometry generator
+
+## What can be done with the Geometry Generator
 
 You can make a lot of things with the geometry generator one examples is
 
