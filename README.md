@@ -61,6 +61,8 @@ to see the different representations of the geometry generator
 
 ## Styles directory (qml)
 
+here you have the directory of qml files to be used in QGIS
+
 ### Dimensions
 
 ![Polygon Dimensions](img/Polygon_with_dimensions.png)

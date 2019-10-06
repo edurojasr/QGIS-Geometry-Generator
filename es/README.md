@@ -60,7 +60,7 @@ geometrías
 
 ## Directorio de estilos
 
-Acá puedes encontrar los archivos .qml para usarlos en QGIS
+Acá puedes encontrar el directorio de archivos .qml para usarlos en QGIS
 
 ### Dimensiones
 
