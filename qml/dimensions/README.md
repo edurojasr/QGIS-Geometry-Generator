@@ -20,7 +20,6 @@ Use this .qml with:
 
 - QGIS 3.8
 
-test
 
 ## Polygon with dimensions
 
