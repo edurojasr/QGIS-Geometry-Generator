@@ -44,7 +44,7 @@ trucos usando expresiones que pueden ser útiles para tu trabajo
 
 ### Dimensiones inteligentes
 
-[Tutoriales](/tutoriales)
+[Dimensiones](/tutoriales)
 
 Aprende como agregar dimensiones dinámicas e inteligentes a tus geometrías
 (polígonos y líneas)
