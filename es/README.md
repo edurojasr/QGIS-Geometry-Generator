@@ -39,11 +39,16 @@ aprendido mucho!
 
 ## Tutoriales disponibles
 
+Aprende como usar el generador de geometrías con estos tutoriales y mira algunos
+trucos usando expresiones que pueden ser útiles para tu trabajo
+
+### Dimensiones inteligentes
+
 [Tutoriales](/tutoriales)
 
-Los ejemplos son los tutoriales para aprender como usar el generador de
-geometrías, demuestran y explican las diferentes expresiones y funciones usadas
-para lograr las diferentes representaciones
+Aprende como agregar dimensiones dinámicas e inteligentes a tus geometrías
+(polígonos y líneas)
+
 
 ## Como usar los archivos .qml
 
