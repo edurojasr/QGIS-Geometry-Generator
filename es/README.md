@@ -37,9 +37,9 @@ aprendido mucho!
 
 - [QGIS Web](https://www.qgis.org/en/site/)
 
-## Visita los ejemplos para aprender como usar el generador de geometrías
+## Tutoriales disponibles
 
-[Ejemplos](/ejemplos)
+[Tutoriales](/tutoriales)
 
 Los ejemplos son los tutoriales para aprender como usar el generador de
 geometrías, demuestran y explican las diferentes expresiones y funciones usadas
@@ -53,14 +53,17 @@ Los archivos .qml son usados para compartir los diferentes estilos de las capas
 de QGIS, úsalos para ver las diferentes representaciones del generador de
 geometrías
 
-## Que puedes hacer con el generador de geometrías
+## Directorio de estilos
 
-Tu puedes hacer muchas cosas con el generador de geometrías un ejemplo es
+Acá puedes encontrar los archivos .qml para usarlos en QGIS
+
+### Dimensiones
 
 ![Polygon Dimensions](../img/Polygon_with_dimensions.png)
 
-Agregar dimensiones inteligentes a tus polígonos, para cuando cambies algún nodo
-la dimension cambie inmediatamente
+[Dimensiones](/qml/dimensions)
+
+Agregar dimensiones inteligentes a tus polígonos, para cuando cambies algún nodo la dimension cambie inmediatamente
 
 ## El material en español
 
