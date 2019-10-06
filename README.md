@@ -3,8 +3,8 @@
 Tutorial and examples of how to use the QGIS geometry generator.
 
 The geometry generator in QGIS is a estrange rendering tool that some users fear
-and with which they are not familiar. In this repo I will try to teach how to use
-the tool and reveal the great power it hides.
+and with which they are not familiar. In this repo I will try to teach how to
+use the tool and reveal the great power it hides.
 
 ## What is the QGIS geometry generator
 
@@ -33,19 +33,24 @@ much!
 **Klas Karlsson:**
 
 - [Klas Karlsson GitHub](https://github.com/klakar/QGIS_resources)
-- [Klas Karlsson YouTube](https://www.youtube.com/channel/UCxs7cfMwzgGZhtUuwhny4-Q)
+- [Klas Karlsson
+  YouTube](https://www.youtube.com/channel/UCxs7cfMwzgGZhtUuwhny4-Q)
 
 **QGIS Community.**
 
 - [QGIS Web](https://www.qgis.org/en/site/)
 
-## Check the examples to learn how to use the geometry generator
+## Available Tutorials
 
-[Examples](/examples)
+Learn how use the geometry generator with this tutorials and see some tricks
+using some clever expressions that can be helpful for your work flow
 
-The examples are the tutorial of how use the geometry generator and understand
-the different expressions and functions used to achieve different
-representations
+### Smart Dimensions
+
+[Dimensions](/tutorials/dimensions)
+
+Learn how add smart and dynamic dimensions for your geometries ( lines and
+polygon)
 
 ## How use the .qml files
 
@@ -54,11 +59,13 @@ representations
 The .qml files are used for sharing the different layes styles in QGIS, use them
 to see the different representations of the geometry generator
 
-## What can be done with the Geometry Generator
+## Styles directory (qml)
 
-You can make a lot of things with the geometry generator one examples is
+### Dimensions
 
 ![Polygon Dimensions](img/Polygon_with_dimensions.png)
+
+[Dimensions](/qml/dimensions)
 
 Add smart dimensions to you geometries, so when you change some vertex o line
 the measure changes
