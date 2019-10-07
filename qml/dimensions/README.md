@@ -20,6 +20,10 @@ Use this .qml with:
 
 - QGIS 3.8
 
+## CRS and metric system
+
+All of this dimensions are in meters because the CRS is EPSG:5367
+
 
 ## Polygon with dimensions
 
