@@ -31,3 +31,10 @@ All of this dimensions are in meters because the CRS is EPSG:5367
 
 Add smart dimensions to you geometries, so when you change some vertex o line
 the measure changes
+
+## Line with dimensions
+
+![Line Dimensions](../../img/line_with_dimensions.png)
+
+Add smart dimensions to you geometries, so when you change some vertex o line
+the measure changes
