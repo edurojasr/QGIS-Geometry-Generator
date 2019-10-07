@@ -65,7 +65,7 @@ here you have the directory of qml files to be used in QGIS
 
 ### Dimensions
 
-![Polygon Dimensions](img/Polygon_with_dimensions.png)
+![Polygon Dimensions](img/polygon_with_dimensions.png)
 
 [Dimensions](/qml/dimensions)
 

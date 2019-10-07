@@ -27,7 +27,7 @@ All of this dimensions are in meters because the CRS is EPSG:5367
 
 ## Polygon with dimensions
 
-![Polygon Dimensions](../../img/Polygon_with_dimensions.png)
+![Polygon Dimensions](../../img/polygon_with_dimensions.png)
 
 Add smart dimensions to you geometries, so when you change some vertex o line
 the measure changes
